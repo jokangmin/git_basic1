@@ -12,6 +12,7 @@ import member.service.WriteService;
 
 //hello test kangmin
 //hello test kangmin_2
+//hello test kangmin_3
 public class IndexMain {
 	
 	public void menu() {

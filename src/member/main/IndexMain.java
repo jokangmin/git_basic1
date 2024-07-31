@@ -10,7 +10,7 @@ import member.service.LoginService;
 import member.service.WriteService;
 
 
-
+//hello test kangmin
 public class IndexMain {
 	
 	public void menu() {
